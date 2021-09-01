@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... Yonko! (Toy Project)
 - 🌱 I’m currently learning ... Computer Science
-- 📫 How to reach me: ... cwyoo01@naver.com
+- 📫 How to reach me: ... cwyoo01@naver.com or cwyoo01@korea.ac.kr
 
 
 <!--
