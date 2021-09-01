@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+하루에 1시간 정도는 저만의 Toy Project를 하려고 노력하는 Changwoo입니다 :)
+
+- 🔭 I’m currently working on ... Yonko! (Toy Project)
+- 🌱 I’m currently learning ... Computer Science
+- 📫 How to reach me: ... cwyoo01@naver.com
+
+
 <!--
 **changwoolab/changwoolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
