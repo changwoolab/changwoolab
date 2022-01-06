@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... RewardHabit (Toy Project)
+- 🔭 I’m currently working on ... RewardHabit (Private Toy Project)
 - 🌱 I’m currently learning ... Computer Science
 - 📫 How to reach me: ... cwyoo01@naver.com or cwyoo01@korea.ac.kr
 
