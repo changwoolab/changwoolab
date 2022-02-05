@@ -22,8 +22,9 @@
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cwyoo01)](https://solved.ac/cwyoo01)
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoolab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoolab&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoolab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 
 </div>
