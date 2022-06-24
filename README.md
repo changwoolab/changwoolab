@@ -17,8 +17,10 @@
   <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=ApolloGraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+<br/>
 
-<br/><br/>
+[loves to make things](https://www.youtube.com/channel/UCAzDa-0d3rHyId7OWrLHxVQ)
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cwyoo01)](https://solved.ac/cwyoo01)
   
