@@ -21,6 +21,12 @@
 <br/>
 
 [loves to make things](https://www.youtube.com/channel/UCAzDa-0d3rHyId7OWrLHxVQ)
+
+### Blog Links
+
+[(구블로그)](https://blog.naver.com/cwyoo01)
+
+[현재 블로그](https://velog.io/@changwoolab)
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cwyoo01)](https://solved.ac/cwyoo01)
   
