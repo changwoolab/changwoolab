@@ -3,7 +3,7 @@
   ### Hi there 👋
   
   ### [Who am I?](https://ionian-sun-6ba.notion.site/resume-e3b8f533c0af49fba73909598242e95e)
-
+<!--
   ## I can use these Technologies
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>  
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>
   
   <br />
-  
+  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoolab&show_icons=true&theme=radical)
   
 
