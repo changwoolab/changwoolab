@@ -1,6 +1,8 @@
 <div align="center">
 
   ### Hi there 👋
+  
+  ### [Who am I?](https://ionian-sun-6ba.notion.site/resume-e3b8f533c0af49fba73909598242e95e)
 
   ## I can use these Technologies
   
@@ -19,20 +21,7 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>
   
-  
-<br/>
-
-[loves to make things](https://www.youtube.com/channel/UCAzDa-0d3rHyId7OWrLHxVQ)
-
-### Blog Links
-
-[(구블로그)](https://blog.naver.com/cwyoo01)
-
-[현재 블로그](https://velog.io/@changwoolab)
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=cwyoo01)](https://solved.ac/cwyoo01)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoolab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoolab&show_icons=true&theme=radical)
   
