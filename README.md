@@ -2,7 +2,8 @@
 
   ### Hi there 👋
   
-  ### [Who am I?](https://ionian-sun-6ba.notion.site/resume-e3b8f533c0af49fba73909598242e95e)
+  #### [Resume (ko)](https://ionian-sun-6ba.notion.site/resume-e3b8f533c0af49fba73909598242e95e)
+  #### [Resume (en)](https://ionian-sun-6ba.notion.site/Resume-36b3d8f7c14e4430ad11dd94a3997ba3)
 <!--
   ## I can use these Technologies
   
@@ -23,9 +24,11 @@
   
   <br />
   -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changwoolab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoolab&show_icons=true&theme=radical)
   
-
 </div>
 <!--
 **changwoolab/changwoolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
