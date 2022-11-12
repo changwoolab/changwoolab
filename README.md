@@ -4,6 +4,8 @@
   
   #### [Resume (ko)](https://ionian-sun-6ba.notion.site/resume-e3b8f533c0af49fba73909598242e95e)
   #### [Resume (en)](https://ionian-sun-6ba.notion.site/Resume-36b3d8f7c14e4430ad11dd94a3997ba3)
+  
+  [In my free time](https://www.youtube.com/channel/UCAzDa-0d3rHyId7OWrLHxVQ)
 <!--
   ## I can use these Technologies
   
