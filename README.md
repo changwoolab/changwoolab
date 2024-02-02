@@ -1,8 +1,5 @@
 <div align="center">
-
-  ### Hi there 👋
-
-<h2 align="center">⚡️ Stats ⚡️</h2>
+<h2 align="center">⚡️ Hi There ⚡️</h2>
 <p align=center>
 <div align=center>
   <a href="https://git.io/streak-stats">
