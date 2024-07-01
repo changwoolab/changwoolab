@@ -6,7 +6,7 @@
   </a>
 
   <a href="https://solved.ac/cwyoo01">
-    <img width=390 align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=cwyoo01" />
+    <img width=390 align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cwyoo01" />
   </a>
  </p>
 </div>
